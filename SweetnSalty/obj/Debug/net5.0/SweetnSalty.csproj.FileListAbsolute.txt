@@ -1,0 +1,16 @@
+C:\Users\jlcnn\OneDrive\Desktop\Revature Code\TylerWhiteRepo1\SweetnSalty\SweetnSalty\bin\Debug\net5.0\SweetnSalty.exe
+C:\Users\jlcnn\OneDrive\Desktop\Revature Code\TylerWhiteRepo1\SweetnSalty\SweetnSalty\bin\Debug\net5.0\SweetnSalty.deps.json
+C:\Users\jlcnn\OneDrive\Desktop\Revature Code\TylerWhiteRepo1\SweetnSalty\SweetnSalty\bin\Debug\net5.0\SweetnSalty.runtimeconfig.json
+C:\Users\jlcnn\OneDrive\Desktop\Revature Code\TylerWhiteRepo1\SweetnSalty\SweetnSalty\bin\Debug\net5.0\SweetnSalty.runtimeconfig.dev.json
+C:\Users\jlcnn\OneDrive\Desktop\Revature Code\TylerWhiteRepo1\SweetnSalty\SweetnSalty\bin\Debug\net5.0\SweetnSalty.dll
+C:\Users\jlcnn\OneDrive\Desktop\Revature Code\TylerWhiteRepo1\SweetnSalty\SweetnSalty\bin\Debug\net5.0\ref\SweetnSalty.dll
+C:\Users\jlcnn\OneDrive\Desktop\Revature Code\TylerWhiteRepo1\SweetnSalty\SweetnSalty\bin\Debug\net5.0\SweetnSalty.pdb
+C:\Users\jlcnn\OneDrive\Desktop\Revature Code\TylerWhiteRepo1\SweetnSalty\SweetnSalty\obj\Debug\net5.0\SweetnSalty.csproj.AssemblyReference.cache
+C:\Users\jlcnn\OneDrive\Desktop\Revature Code\TylerWhiteRepo1\SweetnSalty\SweetnSalty\obj\Debug\net5.0\SweetnSalty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlcnn\OneDrive\Desktop\Revature Code\TylerWhiteRepo1\SweetnSalty\SweetnSalty\obj\Debug\net5.0\SweetnSalty.AssemblyInfoInputs.cache
+C:\Users\jlcnn\OneDrive\Desktop\Revature Code\TylerWhiteRepo1\SweetnSalty\SweetnSalty\obj\Debug\net5.0\SweetnSalty.AssemblyInfo.cs
+C:\Users\jlcnn\OneDrive\Desktop\Revature Code\TylerWhiteRepo1\SweetnSalty\SweetnSalty\obj\Debug\net5.0\SweetnSalty.csproj.CoreCompileInputs.cache
+C:\Users\jlcnn\OneDrive\Desktop\Revature Code\TylerWhiteRepo1\SweetnSalty\SweetnSalty\obj\Debug\net5.0\SweetnSalty.dll
+C:\Users\jlcnn\OneDrive\Desktop\Revature Code\TylerWhiteRepo1\SweetnSalty\SweetnSalty\obj\Debug\net5.0\ref\SweetnSalty.dll
+C:\Users\jlcnn\OneDrive\Desktop\Revature Code\TylerWhiteRepo1\SweetnSalty\SweetnSalty\obj\Debug\net5.0\SweetnSalty.pdb
+C:\Users\jlcnn\OneDrive\Desktop\Revature Code\TylerWhiteRepo1\SweetnSalty\SweetnSalty\obj\Debug\net5.0\SweetnSalty.genruntimeconfig.cache
